@@ -84,7 +84,7 @@ function App() {
       {state.posts ?
         <>
           {console.log("render")}
-          <h2>Welcome to the best app ever</h2>
+          <h2>Prvy web s mongodb heroku express morgan gitauto...</h2>
           <form
             onSubmit={submit}
           >
